@@ -1,0 +1,15 @@
+{
+  "logoData": { "alt": "logo1", "src": "./assets/img/logo.svg", "href": "#" },
+  "menuData": [
+    { "title": "Главная", "href": "#" },
+    { "title": "Что такое GPT?", "href": "#" },
+    { "title": "Open AI", "href": "#" },
+    { "title": "Кейсы", "href": "#" },
+    { "title": "Библиотека", "href": "#" },
+    { "title": "Admin", "href": "/admin" }
+  ],
+  "buttonsData": [
+    { "title": "Authorize", "href": "#", "isPrimary": false },
+    { "title": "Registration", "href": "#", "isPrimary": true }
+  ]
+}
